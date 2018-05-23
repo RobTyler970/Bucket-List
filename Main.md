@@ -80,7 +80,7 @@ At the moment the list is in no particular order. I may edit it in the near futu
 * - [ ] Be a guest speaker
 * - [ ] Raise chickens
 * - [ ] Drive Route 66
-* -[ ] Visit all 50 states (Not just driving through)
+* - [ ] Visit all 50 states (Not just driving through)
   * - [ ] Alabama
   * - [ ] Alaska
   * - [ ] Arizona
