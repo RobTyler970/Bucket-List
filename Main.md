@@ -160,3 +160,4 @@ At the moment the list is in no particular order. I may edit it in the near futu
 * - [ ] Visit Mount Vernon
 * - [ ] Visit Arlington National Cemetery
 * - [ ] Successfully grow garlic
+* - [ ] Visit Shanidar Cave
