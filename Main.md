@@ -1,86 +1,10 @@
 # My Bucket List
-At the moment the list is in no particular order. I may edit it in the near future to add categories or priorities.
+Everything is grouped by category. There are some which have overlap into other categories so I just picked one. I’ve tried to get things in alphabetical order except a few spots where another order seemed more appropriate.
 
 
-* - [ ] Start a product based company
-* - [ ] Build a Tiny Home
-* - [ ] Go off the grid
-* - [ ] Write a book
-* - [ ] Skydive
-* - [ ] Live in a remote cabin for at least a month
-* - [ ] Go to every continent
-  * - [ ] Europe
-  * - [ ] Asia
-  * - [ ] Africa
-  * - [x] North America
-  * - [ ] South America
-  * - [ ] Antarctica
-  * - [ ] Australia
-* - [ ] Hike the Appalachian Trail
-* - [ ] Hike the Pacific Crest Trail
-* - [ ] Hike the Continental Divide Trail
-* - [ ] Watch a show on Broadway
-* - [ ] Get a pilot's license
-* - [ ] Be cast as an extra in a movie
-* - [ ] Build a model train layout
-* - [ ] Learn to weld
-* Learn New Languages:
-  * - [ ] Swedish
-  * - [ ] German
-  * - [ ] Spanish (Re-learn)
-  * - [ ] Latin
-  * - [ ] Italian
-  * - [ ] French
-  * - [ ] Vietnamese
-* - [ ] Jump off Angel Falls
-* - [x] Zip line
-* Running / OCR:
-  * - [ ] Any Marathon
-  * Savage Race
-    * - [x] Standard
-    * - [ ] SavagePro
-    * - [ ] Syndicate
-  * Spartan Race
-    * - [x] Sprint
-    * - [ ] Super
-    * - [ ] Beast
-    * - [ ] Trifecta
-  * - [x] Color Run
-  * - [ ] Tough Mudder
-  * - [ ] Zombie Mud Run
-  * - [ ] Warrior Dash
-  * - [ ] Civilian Military Combine
-  * Goruck Challenge
-    * - [ ] Light
-    * - [ ] Tough
-    * - [ ] Heavy
-  * - [ ] Rugged Maniac
-  * - [ ] American Ninja Warrior
-* - [x] Escape Room (Escaped)
-* - [ ] Go deep sea fishing
-* Shake hands with:
-  * - [ ] Tony Horton
-  * - [ ] Morgan Freeman
-  * - [ ] Samuel L Jackson
-  * - [ ] Scott Johnson
-  * - [ ] Bill Bachman
-  * - [ ] Barack Obama
-  * - [ ] George Bush
-  * - [ ] Hugh Jackman
-  * - [ ] Hat Films (All 3 or none)
-  * - [ ] Lewis Brindley
-  * - [ ] Simon Lane
-  * - [ ] Mark Turpin
-  * - [ ] Dave Grohl
-  * - [ ] Lots more need to be added
-* - [ ] Ride an elephant
-* - [ ] Climb / Hike a volcano
-* - [ ] Get acupuncture
-* - [ ] Work from home
-* - [ ] Be a guest speaker
-* - [ ] Raise chickens
-* - [ ] Drive Route 66
-* - [ ] Visit all 50 states (Not just driving through)
+## Places I’d Like To Visit
+
+* - [ ] All 50 states (Not just driving through)
   * - [ ] Alabama
   * - [ ] Alaska
   * - [ ] Arizona
@@ -131,33 +55,189 @@ At the moment the list is in no particular order. I may edit it in the near futu
   * - [x] West Virginia
   * - [ ] Wisconsin
   * - [ ] Wyoming
-* - [ ] See an Egyptian Pyramid
-* - [ ] Visit Machu Picchu
+* - [ ] Every continent
+  * - [ ] Europe
+  * - [ ] Asia
+  * - [ ] Africa
+  * - [x] North America (Born)
+  * - [ ] South America
+  * - [ ] Antarctica
+  * - [ ] Australia
+* - [ ] Angkor Wat
+* - [ ] Area 51
+* - [ ] Arlington National Cemetery
+* - [ ] Auschwitz
+* - [ ] Blue Lagoon in Iceland
+* - [ ] Bourbon Trail, Kentucky
+* - [ ] Chichen Itza
+* - [ ] Easter Island
+* - [ ] Egypt
+* - [ ] Ferrari World
+* - [ ] George Washington Memorial in Alexandria
+* - [ ] Grand Canyon
+* - [ ] Great Wall of China
+* - [ ] Machu Picchu
+* - [ ] Madame Tussauds
+* - [ ] Mount Vernon
+* - [ ] Longleat Hedge Maze
+* - [ ] Naica Mine
+* - [ ] Prague
+* - [ ] Salar de Uyuni
+* - [ ] Santorini, Greece
+* - [ ] Shanidar Cave
+* - [ ] Taj Mahal
+* - [ ] Tikal National Park
+* - [ ] Vatican City
+
+
+## Things I’d Like To Do Away From Home
+
+* - [ ] Be a guest speaker
+* - [ ] Be cast as an extra in a movie
+* - [ ] Drive Route 66
+* - [x] Escape Room (Escaped May 2018)
+* - [ ] Experience Zero Gravity
 * - [ ] Float in the Dead Sea
-* - [ ] Swim with the pigs of Exuma Island
-* - [ ] Visit the salt flats
-* - [ ] See the Taj Mahal
-* - [ ] Visit Angkor Wat
-* - [ ] Walk across Abbey Road
-* - [ ] Watch the Changing of the Guard at Buckingham Palace
-* - [ ] Go on a safari
+* - [ ] Get acupuncture
+* - [ ] Go deep sea fishing
 * - [ ] Go down Lombard Street in San Francisco
-* Food Challenges:
-  * Need to find and add some
+* - [ ] Go on a safari
+* - [ ] Jump into a pool full of Jello
+* - [ ] Jump off Angel Falls
+* - [ ] La Tomatina
+* - [ ] Live in a remote cabin for at least a month
+* - [ ] Play 18 holes of golf
+* - [ ] Ride an elephant
+* - [ ] See an Egyptian Pyramid
+* - [ ] Skydive
+* - [ ] Swim with the pigs of Exuma Island
+* - [ ] Walk across Abbey Road
+* - [ ] Watch a show on Broadway
+* - [ ] Watch the Changing of the Guard at Buckingham Palace
+* - [x] Zip line (June 2014)
+
+
+## Things I’d Like To Do At Home
+
+* - [ ] Build a model train layout
+* - [ ] Build a Tiny Home
+* - [ ] Go off the grid
+* - [ ] Learn to touch type
+* - [ ] Learn to weld
+* - [ ] Raise chickens
+* - [ ] Start a company
+* - [ ] Successfully grow garlic
+* - [ ] Work from home
+* - [ ] Write a book
+
+
+## Food Challenges
+
+* [x] Rocky Challenge (12” donut) (Defeated Fall 2012)
+* Need to find and add some more
+
+
+## People I’d Like To Meet And Shake Hands With
+
+* - [ ] Bill Bachman
+* - [ ] Lewis Brindley
+* - [ ] George Bush
+* - [ ] Morgan Freeman
+* - [ ] Dave Grohl
+* - [ ] Ross Hornby
+* - [ ] Tony Horton
+* - [ ] Hugh Jackman
+* - [ ] Samuel L Jackson
+* - [ ] Chalene Johnson
+* - [ ] Scott Johnson
+* - [ ] Simon Lane
+* - [ ] Barack Obama
+* - [ ] Alex Smith
+* - [ ] Chris Trott
+* - [ ] Mark Turpin
+* - Lots more need to be added
+
+
+## Running And Obstacle Course Race Related Things I’d like To Complete
+
+* - [ ] American Ninja Warrior
+* - [ ] Any Marathon
+* - [ ] Civilian Military Combine
+* - [x] Color Run (April 2018)
+* Goruck Challenge
+  * - [ ] Light
+  * - [ ] Tough
+  * - [ ] Heavy
+* - [ ] Rugged Maniac
+* Savage Race
+  * - [x] Standard (September 2014)
+  * - [ ] SavagePro
+  * - [ ] Syndicate
+* Spartan Race
+  * - [x] Sprint (June 2017)
+  * - [ ] Super
+  * - [ ] Beast
+  * - [ ] Trifecta
+* - [ ] Tough Mudder
+* - [ ] Warrior Dash
+* - [ ] Zombie Mud Run
+
+
+## Other Exercise Related Things
+
+* - Beachbody Programs
+  * - [x] 21 Day Fix (Spring 2017)
+  * - [ ] 21 Day Fix Extreme
+  * - [ ] 22 Minute Hard Corps (I’ve started this but my schedule got messed up and I will be reattempting soon)
+  * - [ ] 80 Day Obsession
+  * - [ ] Focus: T25
+  * - [ ] Hip Hop Abs
+  * - [ ] Insanity
+  * - [ ] Insanity: Asylum
+  * - [x] PiYo (Spring 2017)
+  * - [ ] Power 90
+  * - [ ] P90
+  * - [ ] P90X
+  * - [ ] P90X2
+  * - [x] P90X3 (Summer 2017)
+  * - [ ] Tai Cheng
+  * - [ ] The Master’s Hammer and Chisel
+* - [ ] Climb / Hike a volcano
+* - [ ] Hike the Appalachian Trail
+* - [ ] Hike the Pacific Crest Trail
+* - [ ] Hike the Continental Divide Trail
+* - [ ] Planche
+* - [ ] Triathlon
+
+
+## Certifications / Coursework I’d Like to Complete
+
+* - Amateur Radio Licenses
+  * - [x] Technician Class (March 2018)
+  * - [x] General Class (March 2018)
+  * - [ ] Extra Class
 * - [ ] College Degree
-* - [ ] Harvard CS50
+* - [x] CPR Certification (August 2016)
 * Free Code Camp:
   * - [ ] Add list of certificates once new site launches
+* - [ ] Harvard CS50
+* Learn New Languages:
+  * - [ ] American Sign Language
+  * - [ ] French
+  * - [ ] German
+  * - [ ] Italian
+  * - [ ] Latin
+  * - [ ] Spanish (Re-learn)
+  * - [ ] Swedish
+  * - [ ] Vietnamese
+* - [ ] Pilot’s License
+* Saylor Academy
+  * - [x] PRDV004: Spreadsheets (July 2017)
 * Various w3schools.com Certifications:
-  * - [ ] HTML5 Certification
-  * - [ ] CSS Certification
-  * - [ ] Javascript Certification
-  * - [ ] jQuery Certification
-  * - [ ] PHP Certification
-  * - [ ] Bootstrap Certification
-  * - [ ] XML Certification
-* - [ ] Visit George Washington Memorial in Alexandria
-* - [ ] Visit Mount Vernon
-* - [ ] Visit Arlington National Cemetery
-* - [ ] Successfully grow garlic
-* - [ ] Visit Shanidar Cave
+  * - [ ] HTML5
+  * - [ ] CSS
+  * - [ ] Javascript
+  * - [ ] jQuery
+  * - [ ] PHP
+  * - [ ] Bootstrap
+  * - [ ] XML
