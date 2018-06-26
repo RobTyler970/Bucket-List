@@ -170,11 +170,11 @@ Everything is grouped by category. There are some which have overlap into other 
   * - [ ] Heavy
 * - [ ] Rugged Maniac
 * Savage Race
-  * - [x] Standard (September 2014)
+  * - [x] Standard (June 2017)
   * - [ ] SavagePro
   * - [ ] Syndicate
 * Spartan Race
-  * - [x] Sprint (June 2017)
+  * - [x] Sprint (September 1014)
   * - [ ] Super
   * - [ ] Beast
   * - [ ] Trifecta
