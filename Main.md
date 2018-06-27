@@ -155,7 +155,7 @@ Everything is grouped by category. There are some which have overlap into other 
 * - [ ] Alex Smith
 * - [ ] Chris Trott
 * - [ ] Mark Turpin
-* - Lots more need to be added
+* Lots more need to be added
 
 
 ## Running And Obstacle Course Race Related Things I’d like To Complete
@@ -185,7 +185,7 @@ Everything is grouped by category. There are some which have overlap into other 
 
 ## Other Exercise Related Things
 
-* - Beachbody Programs
+* Beachbody Programs
   * - [x] 21 Day Fix (Spring 2017)
   * - [ ] 21 Day Fix Extreme
   * - [ ] 22 Minute Hard Corps (I’ve started this but my schedule got messed up and I will be reattempting soon)
@@ -212,7 +212,7 @@ Everything is grouped by category. There are some which have overlap into other 
 
 ## Certifications / Coursework I’d Like to Complete
 
-* - Amateur Radio Licenses
+* Amateur Radio Licenses
   * - [x] Technician Class (March 2018)
   * - [x] General Class (March 2018)
   * - [ ] Extra Class
