@@ -142,6 +142,7 @@ Everything is grouped by category. There are some which have overlap into other 
 * - [ ] Bill Bachman
 * - [ ] Lewis Brindley
 * - [ ] George Bush
+* - [ ] Elvis Duran
 * - [ ] Morgan Freeman
 * - [ ] Dave Grohl
 * - [ ] Ross Hornby
@@ -149,10 +150,12 @@ Everything is grouped by category. There are some which have overlap into other 
 * - [ ] Hugh Jackman
 * - [ ] Samuel L Jackson
 * - [ ] Chalene Johnson
+* - [ ] Dwayne Johnson
 * - [ ] Scott Johnson
 * - [ ] Simon Lane
 * - [ ] Barack Obama
 * - [ ] Alex Smith
+* - [ ] Arnold Schwarzenegger
 * - [ ] Chris Trott
 * - [ ] Mark Turpin
 * Lots more need to be added
@@ -170,6 +173,8 @@ Everything is grouped by category. There are some which have overlap into other 
   * - [ ] Heavy
 * - [ ] Rugged Maniac
 * Savage Race
+  * - [ ] Blitz
+  * - [ ] Blitz Pro
   * - [x] Standard (June 2017)
   * - [ ] SavagePro
   * - [ ] Syndicate
@@ -241,3 +246,4 @@ Everything is grouped by category. There are some which have overlap into other 
   * - [ ] PHP
   * - [ ] Bootstrap
   * - [ ] XML
+* - [ ] Autocross School
