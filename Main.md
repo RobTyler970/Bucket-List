@@ -88,6 +88,7 @@ Everything is grouped by category. There are some which have overlap into other 
 * - [ ] Taj Mahal
 * - [ ] Tikal National Park
 * - [ ] Vatican City
+* - [ ] Giant's Causeway
 
 
 ## Things I’d Like To Do Away From Home
@@ -122,6 +123,7 @@ Everything is grouped by category. There are some which have overlap into other 
 * - [ ] Build a model train layout
 * - [ ] Build a Tiny Home
 * - [ ] Go off the grid
+* - [ ] Have a 100 Gallon Aquarium with lots of fish
 * - [ ] Learn to touch type
 * - [ ] Learn to weld
 * - [ ] Raise chickens
@@ -143,6 +145,7 @@ Everything is grouped by category. There are some which have overlap into other 
 * - [ ] Lewis Brindley
 * - [ ] George Bush
 * - [ ] Elvis Duran
+* - [ ] Jamie Foxx
 * - [ ] Morgan Freeman
 * - [ ] Dave Grohl
 * - [ ] Ross Hornby
@@ -154,8 +157,9 @@ Everything is grouped by category. There are some which have overlap into other 
 * - [ ] Scott Johnson
 * - [ ] Simon Lane
 * - [ ] Barack Obama
-* - [ ] Alex Smith
 * - [ ] Arnold Schwarzenegger
+* - [ ] Alex Smith
+* - [ ] Tara Strong
 * - [ ] Chris Trott
 * - [ ] Mark Turpin
 * Lots more need to be added
@@ -165,6 +169,11 @@ Everything is grouped by category. There are some which have overlap into other 
 
 * - [ ] American Ninja Warrior
 * - [ ] Any Marathon
+* Bonefrog
+  * - [ ] Sprint
+  * - [ ] Challenge
+  * - [ ] Tier-1
+  * - [ ] Endurance
 * - [ ] Civilian Military Combine
 * - [x] Color Run (April 2018)
 * Goruck Challenge
@@ -179,10 +188,11 @@ Everything is grouped by category. There are some which have overlap into other 
   * - [ ] SavagePro
   * - [ ] Syndicate
 * Spartan Race
-  * - [x] Sprint (September 1014)
+  * - [x] Sprint (September 2014)
   * - [ ] Super
   * - [ ] Beast
   * - [ ] Trifecta
+* - [ ] Terrain Racing
 * - [ ] Tough Mudder
 * - [ ] Warrior Dash
 * - [ ] Zombie Mud Run
@@ -193,7 +203,7 @@ Everything is grouped by category. There are some which have overlap into other 
 * Beachbody Programs
   * - [x] 21 Day Fix (Spring 2017)
   * - [ ] 21 Day Fix Extreme
-  * - [ ] 22 Minute Hard Corps (I’ve started this but my schedule got messed up and I will be reattempting soon)
+  * - [x] 22 Minute Hard Corps (Spring / Summer 2018)
   * - [ ] 80 Day Obsession
   * - [ ] Focus: T25
   * - [ ] Hip Hop Abs
