@@ -118,6 +118,7 @@ Everything is grouped by category. There are some which have overlap into other 
 * - [x] Zip line (June 2014)
 * - [ ] Meet up with Yogscast while visiting England
 * - [ ] See the Queen (Even if from a distance)
+* - [ ] Visit Fleet Street in London
 
 
 ## Things I’d Like To Do At Home
