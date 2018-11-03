@@ -116,6 +116,8 @@ Everything is grouped by category. There are some which have overlap into other 
 * - [ ] Watch a show on Broadway
 * - [ ] Watch the Changing of the Guard at Buckingham Palace
 * - [x] Zip line (June 2014)
+* - [ ] Meet up with Yogscast while visiting England
+* - [ ] See the Queen (Even if from a distance)
 
 
 ## Things I’d Like To Do At Home
